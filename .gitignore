@@ -1,2 +1,4 @@
 **/idm_venv/
 *.csv
+**/data/
+**/__pycache__/
